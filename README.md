@@ -36,6 +36,10 @@ Feel free to email us at [devteam@renewfund.com](devteam@renewfund.com) if you h
 
 If you have any questions about this submission process, feel free to email us.
 
+#### Why can't I just fork, and submit a pull request?
+
+Unfortunately, Github no longer allows you to fork a public repo and make it private, so your submission would be visible to the entire world.  We'd love to keep this fair and not give the last responders a possible unfair advantage (since they'd be able to see all prior submissions); hence the patch method.
+
 ## Project Description
 
 Imagine that Renewable Funding has just acquired a new company, Dr. Deal-a-Day's "Deal a Day" (dot com).  Unfortunately, the company has never stored their data in a database, and instead uses a plain text file.  We need to create a way for the new subsidiary to import their data into a database.  Your task is to create a web interface that accepts file uploads, normalizes the data, and then stores it in a relational database.
