@@ -1,5 +1,5 @@
-The Renewable Funding Code Challenge
-====================================
+Renewable Funding: Code Challenge
+=================================
 
 Hi there!  We're ecstatic that you're interested in working for Renewable Funding's dev team.  To get a better idea of your current development skills, we'd like for you to complete a devteam - build an application according to a set of requirements.  The actual business requirements are listed further down, but here are the general tech requirements:
 
