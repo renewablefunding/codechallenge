@@ -1,7 +1,7 @@
 Renewable Funding: Code Challenge
 =================================
 
-Hi there!  We're ecstatic that you're interested in working for Renewable Funding's dev team.  To get a better idea of your current development skills, we'd like for you to complete a devteam - build an application according to a set of requirements.  The actual business requirements are listed further down, but here are the general tech requirements:
+Hi there!  We're ecstatic that you're interested in working for Renewable Funding's dev team.  To get a better idea of your current development skills, we'd like for you to complete a code challenge - build an application according to a set of requirements.  The actual business requirements are listed further down, but here are the general tech requirements:
 
 1. Write your code in Ruby.
 1. Make sure your app is runnable on Mac OS X or Linux.
