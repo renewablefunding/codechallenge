@@ -48,7 +48,7 @@ Here are the business requirements, if you're applying for either the **Software
 
 1. Users must be able to upload (via an HTML form) a comma-separated values (CSV) file with the following columns: purchaser name, item description, item price, purchase quantity, merchant address, and merchant name.  You can assume the columns will always be in that order, that there will always be data in each column, and that there will always be a header line.  An example input file named `example_data.csv` is included in this repo.
 1. Your app must parse uploaded files, normalize the data, and store the information in a relational database.
-1. After upload, your application should display the total amount of gross revenue represented by the uploaded file.
+1. After upload, your application should display the total amount of revenue contained in the uploaded file.
 
 For applicants for the **Senior Software Engineer** position, there are two additional requirements:
 
