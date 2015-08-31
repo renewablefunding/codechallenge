@@ -8,7 +8,7 @@ Hi there!  We're ecstatic that you're interested in working for Renewable Fundin
 1. Do not require any for-pay software.
 1. Include instructions for setting up and running your application.
 
-Feel free to email us at [devteam@renewfund.com](devteam@renewfund.com) if you have any questions.
+Feel free to email us at [codechallenge@renewfinancial.com](codechallenge@renewfinancial.com) if you have any questions.
 
 ## Submission Instructions
 
@@ -32,7 +32,7 @@ Feel free to email us at [devteam@renewfund.com](devteam@renewfund.com) if you h
   % zip -r submission_patches.zip submission_patches
   ```
 
-1. Email the .zip file to [devteam@renewfund.com](devteam@renewfund.com), and put the position you are applying for in the email's subject.
+1. Email the .zip file to [codechallenge@renewfinancial.com](codechallenge@renewfinancial.com), and put the position you are applying for in the email's subject.
 
 If you have any questions about this submission process, feel free to email us.
 
