@@ -44,14 +44,13 @@ Unfortunately, Github no longer allows you to fork a public repo and make it pri
 
 Imagine that Renewable Funding has just acquired a new company, Dr. Deal-a-Day's "Deal a Day" (dot com).  Unfortunately, the company has never stored their data in a database, and instead uses a plain text file.  We need to create a way for the new subsidiary to import their data into a database.  Your task is to create a web interface that accepts file uploads, normalizes the data, and then stores it in a relational database.
 
-Here are the business requirements, if you're applying for either the **Software Engineer** or **Senior Software Engineer** position:
+Here are the business requirements:
 
 1. Users must be able to upload (via an HTML form) a comma-separated values (CSV) file with the following columns: purchaser name, item description, item price, purchase quantity, merchant address, and merchant name.  You can assume the columns will always be in that order, that there will always be data in each column, and that there will always be a header line.  An example input file named `example_data.csv` is included in this repo.
 1. Your app must parse uploaded files, normalize the data, and store the information in a relational database.
 1. After upload, your application should display the total amount of revenue contained in the uploaded file.
 
-For applicants for the **Senior Software Engineer** position, there are two additional requirements:
-
+If you're applying for either the **Senior Software Engineer**, **Software Architect**, or **Engineering Manager** position, there are two additional requirements:
 * Users must log in with an email address and password.  User registration & authorization is not required; include instructions on how to log in with your submission.
 * Non-logged in users should not have access to upload files. 
 
