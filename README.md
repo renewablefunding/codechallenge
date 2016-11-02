@@ -18,7 +18,7 @@ Imagine that Renewable Funding has just acquired a new company, Dr. Deal-a-Day's
 Here are the business requirements:
 
 1. Users must be able to upload (via an HTML form) a comma-separated values (CSV) file with the following columns: purchaser name, item description, item price, purchase quantity, merchant address, and merchant name.  You can assume the columns will always be in that order, that there will always be data in each column, and that there will always be a header line.  An example input file named `example_data.csv` is included in this repo.
-1. Your app must parse uploaded files, appropriately normalize the data into separate tables, and store the information in a relational database.
+1. Your app must parse uploaded files, appropriately normalize the data into separate tables within a relational database.
 1. Show a human readable error message if a badly formatted file is uploaded.
 1. After upload, your application should display the total revenue from the purchases, specific to the uploaded file.  The should also be a display for the total revenue for all purchases uploaded to date.
 1. You are required to fully test your code, no matter the language it is written in.
@@ -58,6 +58,10 @@ Your application does not need to:
 
 If you have any questions about this submission process, feel free to email us.
 
+#### Why can't I just fork, and submit a pull request?
+
+Unfortunately, Github no longer allows you to fork a public repo and make it private, so your submission would be visible to the entire world.  We'd love to keep this fair and not give the last responders a possible unfair advantage (since they'd be able to see all prior submissions); hence the patch method.
+
 ## Evaluation
 
 Reviewers will assess your familiarity with standard libraries, and with object-oriented programming.
@@ -65,7 +69,3 @@ Reviewers will assess your familiarity with standard libraries, and with object-
 1. Did your application fulfill the stated requirements for the position you are applying for?
 1. Did you thoroughly document the method for setting up and running your application?
 1. Did you follow the instructions for submission?
-
-#### Why can't I just fork, and submit a pull request?
-
-Unfortunately, Github no longer allows you to fork a public repo and make it private, so your submission would be visible to the entire world.  We'd love to keep this fair and not give the last responders a possible unfair advantage (since they'd be able to see all prior submissions); hence the patch method.
