@@ -6,7 +6,7 @@ Hi there!  We're ecstatic that you're interested in working for Renewable Fundin
 1. We work in Ruby, mostly within Rails, but you may write your app in your preferred language and framework.
 1. Make sure your app is runnable on Mac OS X or Linux.
 1. Do not require any for-pay software.
-1. Feel free to use any resources you want (books, online resources, etc.) - this is not a test of what esoteric formulae you have memorized. If you have any issues connecting to the internet, please let us know.
+1. Feel free to use any resources you want (books, online resources, etc.) - this is not a test of what esoteric formulae you have memorized.
 1. Include instructions for setting up and running your application.
 
 ## Project Description
