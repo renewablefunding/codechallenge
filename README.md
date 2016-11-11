@@ -16,7 +16,7 @@ Imagine that Renewable Funding has just acquired a new company, Dr. Deal-a-Day's
 Here are the business requirements:
 
 1. Users must be able to upload (via an HTML form) a comma-separated values (CSV) file with the following columns: purchaser name, item description, item price, purchase quantity, merchant address, and merchant name.  You can assume the columns will always be in that order, that there will always be data in each column, and that there will always be a header line.  An example input file named `example_data.csv` is included in this repo.
-1. Your app must parse uploaded files, appropriately normalize the data into separate tables within a relational database.
+1. Your app must parse uploaded files and appropriately normalize the data into separate tables within a relational database.
 1. Show a human readable error message if a badly formatted file is uploaded.
 1. After upload, your application should display the total revenue from the purchases, specific to the uploaded file.  The should also be a display for the total revenue for all purchases uploaded to date.
 1. You are required to fully test your code, no matter the language it is written in.
