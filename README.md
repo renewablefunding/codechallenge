@@ -9,8 +9,6 @@ Hi there!  We're ecstatic that you're interested in working for Renewable Fundin
 1. Feel free to use any resources you want (books, online resources, etc.) - this is not a test of what esoteric formulae you have memorized. If you have any issues connecting to the internet, please let us know.
 1. Include instructions for setting up and running your application.
 
-Feel free to email us at [codechallenge@renewfinancial.com](codechallenge@renewfinancial.com) if you have any questions.
-
 ## Project Description
 
 Imagine that Renewable Funding has just acquired a new company, Dr. Deal-a-Day's "Deal a Day" (dot com).  Unfortunately, the company uses a plain text file store their data.  We need to create a way for the new subsidiary to import their data into a database.  Your task is to create a web interface that accepts file uploads, [normalizes the data](https://en.wikipedia.org/wiki/Database_normalization), and then stores it in a relational database.
@@ -27,10 +25,12 @@ If you're applying for either the **Senior Software Engineer**, **Software Archi
 * Users must log in with an email address and password.  Include instructions on how to log in with your submission.
 * Non-logged in users should not have access to upload files.
 
+If you have any questions about requirements or other parts of this challenge feel free to email us at [codechallenge@renewfinancial.com](codechallenge@renewfinancial.com).
+
 Your application does not need to:
 
 * be written with any particular framework or language
-* be aesthetically pleasing
+* have an aesthetically pleasing UI
 
 ## Submission Instructions
 
